@@ -1,0 +1,19 @@
+{
+  "name": "existence-checker",
+  "version": "1.0.0",
+  "description": "makes a middleware function for checking the existence of the given thing in the database",
+  "main": "existenceChecker.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewfulrich/existence-checker.git"
+  },
+  "author": "Andrew Ulrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewfulrich/existence-checker/issues"
+  },
+  "homepage": "https://github.com/andrewfulrich/existence-checker#readme"
+}
