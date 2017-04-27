@@ -1,6 +1,6 @@
 {
   "name": "existence-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "makes a middleware function for checking the existence of the given thing in the database",
   "main": "existenceChecker.js",
   "scripts": {
